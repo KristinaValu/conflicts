@@ -1,3 +1,3 @@
-const getConflict = () => ({
-  title: "Conflict Example",
+const noConflict = () => ({
+  title: "No Conflict",
 });
